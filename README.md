@@ -1,6 +1,6 @@
 # WordGuesser Game
 
-Welcome to the WordGuesser game! This is a fun word guessing game where you guess the letters of a hidden word.
+Welcome to the WordGuesser game.
 
 ## How to Play
 1. Use the command `guessletter <letter>` to guess a letter.
